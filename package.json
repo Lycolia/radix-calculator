@@ -1,7 +1,7 @@
 {
-  "name": "radix",
+  "name": "@lycola/radix-calculator",
   "version": "0.6.0",
-  "description": "radix",
+  "description": "radix-calculator",
   "author": "Lycolia",
   "license": "MIT",
   "repository": {
